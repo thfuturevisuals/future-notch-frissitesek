@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Future Notch</title>
+    <link>https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/appcast.xml</link>
+    <language>hu</language>
+    <item>
+      <title>Future Notch 0.1.0</title>
+      <pubDate>Mon, 16 Nov 2026 13:33:17 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Első verzió: Future fül (stopper, feladatok, gyors feladat, értesítések)</li><li>Eszközök fül: Pocket, vágólap, teendők, Pomodoro, súgógép, terminál, konvertáló, AI-ügynökök</li><li>Bluetooth-eszközök, Liquid Glass, magyar felület</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.1.0-5.zip" length="7648948" type="application/octet-stream" sparkle:edSignature="LiSVFh2yrwtmIY9Zf+ebQ7HxjWWVpxA42h+Kj3Sr+j8uQo6wR0zpM/4aYTN03Py+mLeBw4zyZVP9ht/znIR7Bg=="/>
+    </item>
+  </channel>
+</rss>
