@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.2.2",
+    "build": 9,
+    "zip": "FutureNotch-0.2.2-9.zip",
+    "length": 7743914,
+    "ed_signature": "UrVaNwQ8/PJVxRT9DzPOSvdpdu0KFvVlxjxEGnr8HHDhHe6qEKz9CG4I9NJOhgp94RUK1/u/5yXvG7MuF8JQCw==",
+    "minimum_system_version": "14.0",
+    "commit": "cda351a06bc36ad12502f1693dd84d836891b6b7",
+    "sha256": "d97d6cac5b71322fe22eb39f0c82db3caae2b2cdbddaad63908920bc43523ccf",
+    "pub_date": "Mon, 16 Nov 2026 20:03:21 +0000",
+    "notes": "Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.",
+    "notes_html": "<ul><li>Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.</li></ul>"
+  },
+  {
     "version": "0.2.1",
     "build": 8,
     "zip": "FutureNotch-0.2.1-8.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Mon, 16 Nov 2026 14:20:48 +0000",
     "notes": "NAS: jelzi, ha elérhető, és felajánlja a csatlakozást (Kapcsolódás szerverre)\nNAS ikon a notch oldalán és a fejlécben, NAS rész az Eszközök fülön",
     "notes_html": "<ul><li>NAS: jelzi, ha elérhető, és felajánlja a csatlakozást (Kapcsolódás szerverre)</li><li>NAS ikon a notch oldalán és a fejlécben, NAS rész az Eszközök fülön</li></ul>"
-  },
-  {
-    "version": "0.1.0",
-    "build": 6,
-    "zip": "FutureNotch-0.1.0-6.zip",
-    "length": 7648935,
-    "ed_signature": "EKRhI3PpkzLpJG7lietdPvy9Ek25AAztU+mBH2mks63xJRqN55WcllaNOpWNYKds9K+X92KMOTDNAIGXsC/EDw==",
-    "minimum_system_version": "14.0",
-    "commit": "501cecbe475e85123c1579fd6eb3185a2324637a",
-    "sha256": "57f0fc2a87793620dfb1ed7b3667a8b2f24145fba4ef34fc42923d4bfcec4ee1",
-    "pub_date": "Mon, 16 Nov 2026 13:43:57 +0000",
-    "notes": "Telepítő csomag (.pkg): dupla kattintással települ\nAz első verzió minden funkciójával",
-    "notes_html": "<ul><li>Telepítő csomag (.pkg): dupla kattintással települ</li><li>Az első verzió minden funkciójával</li></ul>"
   }
 ]

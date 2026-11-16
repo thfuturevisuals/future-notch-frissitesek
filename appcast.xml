@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/appcast.xml</link>
     <language>hu</language>
     <item>
+      <title>Future Notch 0.2.2</title>
+      <pubDate>Mon, 16 Nov 2026 20:03:21 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.2-9.zip" length="7743914" type="application/octet-stream" sparkle:edSignature="UrVaNwQ8/PJVxRT9DzPOSvdpdu0KFvVlxjxEGnr8HHDhHe6qEKz9CG4I9NJOhgp94RUK1/u/5yXvG7MuF8JQCw=="/>
+    </item>
+    <item>
       <title>Future Notch 0.2.1</title>
       <pubDate>Mon, 16 Nov 2026 15:16:13 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>NAS: jelzi, ha elérhető, és felajánlja a csatlakozást (Kapcsolódás szerverre)</li><li>NAS ikon a notch oldalán és a fejlécben, NAS rész az Eszközök fülön</li></ul>]]></description>
       <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.0-7.zip" length="7730976" type="application/octet-stream" sparkle:edSignature="ihzNwy7Azmd30hLWYzsfbS3CwM6TUlynTZsyvWqldBG65RoSP0r/1BPHLrlDu6TApsmKNJiuPvLF7GKGZ9NaBg=="/>
-    </item>
-    <item>
-      <title>Future Notch 0.1.0</title>
-      <pubDate>Mon, 16 Nov 2026 13:43:57 +0000</pubDate>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Telepítő csomag (.pkg): dupla kattintással települ</li><li>Az első verzió minden funkciójával</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.1.0-6.zip" length="7648935" type="application/octet-stream" sparkle:edSignature="EKRhI3PpkzLpJG7lietdPvy9Ek25AAztU+mBH2mks63xJRqN55WcllaNOpWNYKds9K+X92KMOTDNAIGXsC/EDw=="/>
     </item>
   </channel>
 </rss>
