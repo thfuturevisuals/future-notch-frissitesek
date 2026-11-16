@@ -1,6 +1,19 @@
 [
   {
     "version": "0.1.0",
+    "build": 6,
+    "zip": "FutureNotch-0.1.0-6.zip",
+    "length": 7648935,
+    "ed_signature": "EKRhI3PpkzLpJG7lietdPvy9Ek25AAztU+mBH2mks63xJRqN55WcllaNOpWNYKds9K+X92KMOTDNAIGXsC/EDw==",
+    "minimum_system_version": "14.0",
+    "commit": "501cecbe475e85123c1579fd6eb3185a2324637a",
+    "sha256": "57f0fc2a87793620dfb1ed7b3667a8b2f24145fba4ef34fc42923d4bfcec4ee1",
+    "pub_date": "Mon, 16 Nov 2026 13:43:57 +0000",
+    "notes": "Telepítő csomag (.pkg): dupla kattintással települ\nAz első verzió minden funkciójával",
+    "notes_html": "<ul><li>Telepítő csomag (.pkg): dupla kattintással települ</li><li>Az első verzió minden funkciójával</li></ul>"
+  },
+  {
+    "version": "0.1.0",
     "build": 5,
     "zip": "FutureNotch-0.1.0-5.zip",
     "length": 7648948,

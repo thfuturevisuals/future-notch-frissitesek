@@ -6,6 +6,15 @@
     <language>hu</language>
     <item>
       <title>Future Notch 0.1.0</title>
+      <pubDate>Mon, 16 Nov 2026 13:43:57 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Telepítő csomag (.pkg): dupla kattintással települ</li><li>Az első verzió minden funkciójával</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.1.0-6.zip" length="7648935" type="application/octet-stream" sparkle:edSignature="EKRhI3PpkzLpJG7lietdPvy9Ek25AAztU+mBH2mks63xJRqN55WcllaNOpWNYKds9K+X92KMOTDNAIGXsC/EDw=="/>
+    </item>
+    <item>
+      <title>Future Notch 0.1.0</title>
       <pubDate>Mon, 16 Nov 2026 13:33:17 +0000</pubDate>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

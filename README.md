@@ -5,7 +5,12 @@ A forráskód privát repóban van.
 
 ## Telepítés
 
-A Terminálba másold be ezt az egy sort:
+**Telepítővel:** töltsd le a [FutureNotch-Telepito.pkg](https://github.com/thfuturevisuals/future-notch-frissitesek/raw/main/FutureNotch-Telepito.pkg)
+fájlt, és nyisd meg dupla kattintással. Az első megnyitáskor a macOS figyelmeztet, mert a csomag a cég saját
+aláírásával készül, nem az Apple-ével. Ilyenkor kattints a Kész gombra, menj a **Rendszerbeállítások → Adatvédelem
+és biztonság** oldalra, és ott alul válaszd a **Megnyitás mindenképp** lehetőséget. Ezt csak egyszer kell.
+
+**Vagy a Terminállal** (itt nincs figyelmeztetés), másold be ezt az egy sort:
 
 ```
 curl -fsSL https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/install.sh | bash
