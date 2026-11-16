@@ -4,8 +4,9 @@
 set -euo pipefail
 BASE="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main"
 INFO=$(curl -fsSL "$BASE/latest.json")
-ZIP=$(printf '%s' "$INFO" | /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin)["zip"])')
-SHA=$(printf '%s' "$INFO" | /usr/bin/python3 -c 'import json,sys; print(json.load(sys.stdin)["sha256"])')
+# plutil reads JSON and is on every Mac (python3 is not, without the developer tools)
+ZIP=$(printf '%s' "$INFO" | plutil -extract zip raw -o - -)
+SHA=$(printf '%s' "$INFO" | plutil -extract sha256 raw -o - -)
 TMP=$(mktemp -d)
 trap 'rm -rf "$TMP"' EXIT
 echo "Future Notch letöltése: $ZIP"
