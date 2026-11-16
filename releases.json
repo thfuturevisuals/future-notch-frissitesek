@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.2.1",
+    "build": 8,
+    "zip": "FutureNotch-0.2.1-8.zip",
+    "length": 7736755,
+    "ed_signature": "/DbXSI2IOlXJqKKfVd68TjoLCdaggcAOHvFFKzPDlRm7ear9KaUdi3CMRLFGM7WwGiSPgKX6cYOmfyekgBmZBg==",
+    "minimum_system_version": "14.0",
+    "commit": "813c5da4eb89537068e5f60951565beebc5cef5f",
+    "sha256": "f51a0c1a78e0fddbb04fbd5a29e6ca93ec80e769b2c9c42882bb969c73c7c0ce",
+    "pub_date": "Mon, 16 Nov 2026 15:16:13 +0000",
+    "notes": "Futó stopper a csukott notchban: csak egy kis lüktető pont",
+    "notes_html": "<ul><li>Futó stopper a csukott notchban: csak egy kis lüktető pont</li></ul>"
+  },
+  {
     "version": "0.2.0",
     "build": 7,
     "zip": "FutureNotch-0.2.0-7.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Mon, 16 Nov 2026 13:43:57 +0000",
     "notes": "Telepítő csomag (.pkg): dupla kattintással települ\nAz első verzió minden funkciójával",
     "notes_html": "<ul><li>Telepítő csomag (.pkg): dupla kattintással települ</li><li>Az első verzió minden funkciójával</li></ul>"
-  },
-  {
-    "version": "0.1.0",
-    "build": 5,
-    "zip": "FutureNotch-0.1.0-5.zip",
-    "length": 7648948,
-    "ed_signature": "LiSVFh2yrwtmIY9Zf+ebQ7HxjWWVpxA42h+Kj3Sr+j8uQo6wR0zpM/4aYTN03Py+mLeBw4zyZVP9ht/znIR7Bg==",
-    "minimum_system_version": "14.0",
-    "commit": "6c7a970dfcddacc802c55b4f1c43f7d5d48407d9",
-    "sha256": "310511cd3f9bcf96c33ea777bbd5d3ab6fd8e7ccd42d309923030245ccffc8f5",
-    "pub_date": "Mon, 16 Nov 2026 13:33:17 +0000",
-    "notes": "Első verzió: Future fül (stopper, feladatok, gyors feladat, értesítések)\nEszközök fül: Pocket, vágólap, teendők, Pomodoro, súgógép, terminál, konvertáló, AI-ügynökök\nBluetooth-eszközök, Liquid Glass, magyar felület",
-    "notes_html": "<ul><li>Első verzió: Future fül (stopper, feladatok, gyors feladat, értesítések)</li><li>Eszközök fül: Pocket, vágólap, teendők, Pomodoro, súgógép, terminál, konvertáló, AI-ügynökök</li><li>Bluetooth-eszközök, Liquid Glass, magyar felület</li></ul>"
   }
 ]
