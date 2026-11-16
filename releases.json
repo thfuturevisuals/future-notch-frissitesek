@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.2.3",
+    "build": 10,
+    "zip": "FutureNotch-0.2.3-10.zip",
+    "length": 7748622,
+    "ed_signature": "UXvX9HgKL0gqxeApxEG4E2wm7BAUzOG18Y2Lkr9180mHWjGUlocrKbVnl5zZaLnz1hsGZ8V8iMdzfvcxW/nUBA==",
+    "minimum_system_version": "14.0",
+    "commit": "647dd8e67ac14b144f17292f50c4c15694408007",
+    "sha256": "4ce0445c9e29bf0e6619d8bc23df73fc139aa2a0796eb39c1fb187e59e1ff48b",
+    "pub_date": "Mon, 16 Nov 2026 20:29:16 +0000",
+    "notes": "Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.",
+    "notes_html": "<ul><li>Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.</li></ul>"
+  },
+  {
     "version": "0.2.2",
     "build": 9,
     "zip": "FutureNotch-0.2.2-9.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Mon, 16 Nov 2026 15:16:13 +0000",
     "notes": "Futó stopper a csukott notchban: csak egy kis lüktető pont",
     "notes_html": "<ul><li>Futó stopper a csukott notchban: csak egy kis lüktető pont</li></ul>"
-  },
-  {
-    "version": "0.2.0",
-    "build": 7,
-    "zip": "FutureNotch-0.2.0-7.zip",
-    "length": 7730976,
-    "ed_signature": "ihzNwy7Azmd30hLWYzsfbS3CwM6TUlynTZsyvWqldBG65RoSP0r/1BPHLrlDu6TApsmKNJiuPvLF7GKGZ9NaBg==",
-    "minimum_system_version": "14.0",
-    "commit": "88890bd22ce64ba94915562af19ace5a9c023c59",
-    "sha256": "61ad995b516aad7cc3d1bd26aa8e755286521743290780c32a792c53ea63293a",
-    "pub_date": "Mon, 16 Nov 2026 14:20:48 +0000",
-    "notes": "NAS: jelzi, ha elérhető, és felajánlja a csatlakozást (Kapcsolódás szerverre)\nNAS ikon a notch oldalán és a fejlécben, NAS rész az Eszközök fülön",
-    "notes_html": "<ul><li>NAS: jelzi, ha elérhető, és felajánlja a csatlakozást (Kapcsolódás szerverre)</li><li>NAS ikon a notch oldalán és a fejlécben, NAS rész az Eszközök fülön</li></ul>"
   }
 ]

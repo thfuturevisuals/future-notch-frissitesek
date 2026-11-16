@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/appcast.xml</link>
     <language>hu</language>
     <item>
+      <title>Future Notch 0.2.3</title>
+      <pubDate>Mon, 16 Nov 2026 20:29:16 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.3-10.zip" length="7748622" type="application/octet-stream" sparkle:edSignature="UXvX9HgKL0gqxeApxEG4E2wm7BAUzOG18Y2Lkr9180mHWjGUlocrKbVnl5zZaLnz1hsGZ8V8iMdzfvcxW/nUBA=="/>
+    </item>
+    <item>
       <title>Future Notch 0.2.2</title>
       <pubDate>Mon, 16 Nov 2026 20:03:21 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Futó stopper a csukott notchban: csak egy kis lüktető pont</li></ul>]]></description>
       <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.1-8.zip" length="7736755" type="application/octet-stream" sparkle:edSignature="/DbXSI2IOlXJqKKfVd68TjoLCdaggcAOHvFFKzPDlRm7ear9KaUdi3CMRLFGM7WwGiSPgKX6cYOmfyekgBmZBg=="/>
-    </item>
-    <item>
-      <title>Future Notch 0.2.0</title>
-      <pubDate>Mon, 16 Nov 2026 14:20:48 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>NAS: jelzi, ha elérhető, és felajánlja a csatlakozást (Kapcsolódás szerverre)</li><li>NAS ikon a notch oldalán és a fejlécben, NAS rész az Eszközök fülön</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.0-7.zip" length="7730976" type="application/octet-stream" sparkle:edSignature="ihzNwy7Azmd30hLWYzsfbS3CwM6TUlynTZsyvWqldBG65RoSP0r/1BPHLrlDu6TApsmKNJiuPvLF7GKGZ9NaBg=="/>
     </item>
   </channel>
 </rss>
