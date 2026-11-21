@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.3.0",
+    "build": 11,
+    "zip": "FutureNotch-0.3.0-11.zip",
+    "length": 7794361,
+    "ed_signature": "3kpG34b5iXQu3o1iD5rdc/TdOTh1NfCZl5SbhdA5gymPPao4T6+Uz9pavuWsgGzL2vODVQcjq+QNf4otJFV5Cg==",
+    "minimum_system_version": "14.0",
+    "commit": "a0ff0db5ef85969c5fdef67895f31d7e760d065a",
+    "sha256": "d167333217c407ec4ce6fad75bba0e9032a17f945b93582faaf12ff564ce3ccc",
+    "pub_date": "Sat, 21 Nov 2026 10:02:43 +0000",
+    "notes": "Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.",
+    "notes_html": "<ul><li>Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.</li></ul>"
+  },
+  {
     "version": "0.2.3",
     "build": 10,
     "zip": "FutureNotch-0.2.3-10.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Mon, 16 Nov 2026 20:03:21 +0000",
     "notes": "Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.",
     "notes_html": "<ul><li>Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.</li></ul>"
-  },
-  {
-    "version": "0.2.1",
-    "build": 8,
-    "zip": "FutureNotch-0.2.1-8.zip",
-    "length": 7736755,
-    "ed_signature": "/DbXSI2IOlXJqKKfVd68TjoLCdaggcAOHvFFKzPDlRm7ear9KaUdi3CMRLFGM7WwGiSPgKX6cYOmfyekgBmZBg==",
-    "minimum_system_version": "14.0",
-    "commit": "813c5da4eb89537068e5f60951565beebc5cef5f",
-    "sha256": "f51a0c1a78e0fddbb04fbd5a29e6ca93ec80e769b2c9c42882bb969c73c7c0ce",
-    "pub_date": "Mon, 16 Nov 2026 15:16:13 +0000",
-    "notes": "Futó stopper a csukott notchban: csak egy kis lüktető pont",
-    "notes_html": "<ul><li>Futó stopper a csukott notchban: csak egy kis lüktető pont</li></ul>"
   }
 ]
