@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/appcast.xml</link>
     <language>hu</language>
     <item>
+      <title>Future Notch 0.4.1</title>
+      <pubDate>Sun, 22 Nov 2026 10:35:15 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Az ügyfél előtti mód a Beállítások → Future CRM-ben teljesen kikapcsolható: ilyenkor nincs szem gomb, menüpont, és a mikrofont/kamerát sem figyeli.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.4.1-13.zip" length="8067457" type="application/octet-stream" sparkle:edSignature="qT1vOzvW+fJ5bUn19Z1bCsoEkl2fiwpdjEXVrdZhe/sFD2w5KXHHIJqPAF8ivLJrjZsGOuiPCcTkRyd8+wvwDA=="/>
+    </item>
+    <item>
       <title>Future Notch 0.4.0</title>
       <pubDate>Sun, 22 Nov 2026 01:59:28 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.</li></ul>]]></description>
       <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.3.0-11.zip" length="7794361" type="application/octet-stream" sparkle:edSignature="3kpG34b5iXQu3o1iD5rdc/TdOTh1NfCZl5SbhdA5gymPPao4T6+Uz9pavuWsgGzL2vODVQcjq+QNf4otJFV5Cg=="/>
-    </item>
-    <item>
-      <title>Future Notch 0.2.3</title>
-      <pubDate>Mon, 16 Nov 2026 20:29:16 +0000</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.3-10.zip" length="7748622" type="application/octet-stream" sparkle:edSignature="UXvX9HgKL0gqxeApxEG4E2wm7BAUzOG18Y2Lkr9180mHWjGUlocrKbVnl5zZaLnz1hsGZ8V8iMdzfvcxW/nUBA=="/>
     </item>
   </channel>
 </rss>

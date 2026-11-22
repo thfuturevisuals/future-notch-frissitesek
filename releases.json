@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.4.1",
+    "build": 13,
+    "zip": "FutureNotch-0.4.1-13.zip",
+    "length": 8067457,
+    "ed_signature": "qT1vOzvW+fJ5bUn19Z1bCsoEkl2fiwpdjEXVrdZhe/sFD2w5KXHHIJqPAF8ivLJrjZsGOuiPCcTkRyd8+wvwDA==",
+    "minimum_system_version": "14.0",
+    "commit": "d0823b951e4f9af6174e624bb6f3e300e6e370da",
+    "sha256": "604ad26d1235db62734a00c156c81108992a6b39a88608c334fb2395fc41de24",
+    "pub_date": "Sun, 22 Nov 2026 10:35:15 +0000",
+    "notes": "Az ügyfél előtti mód a Beállítások → Future CRM-ben teljesen kikapcsolható: ilyenkor nincs szem gomb, menüpont, és a mikrofont/kamerát sem figyeli.",
+    "notes_html": "<ul><li>Az ügyfél előtti mód a Beállítások → Future CRM-ben teljesen kikapcsolható: ilyenkor nincs szem gomb, menüpont, és a mikrofont/kamerát sem figyeli.</li></ul>"
+  },
+  {
     "version": "0.4.0",
     "build": 12,
     "zip": "FutureNotch-0.4.0-12.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Sat, 21 Nov 2026 10:02:43 +0000",
     "notes": "Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.",
     "notes_html": "<ul><li>Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.</li></ul>"
-  },
-  {
-    "version": "0.2.3",
-    "build": 10,
-    "zip": "FutureNotch-0.2.3-10.zip",
-    "length": 7748622,
-    "ed_signature": "UXvX9HgKL0gqxeApxEG4E2wm7BAUzOG18Y2Lkr9180mHWjGUlocrKbVnl5zZaLnz1hsGZ8V8iMdzfvcxW/nUBA==",
-    "minimum_system_version": "14.0",
-    "commit": "647dd8e67ac14b144f17292f50c4c15694408007",
-    "sha256": "4ce0445c9e29bf0e6619d8bc23df73fc139aa2a0796eb39c1fb187e59e1ff48b",
-    "pub_date": "Mon, 16 Nov 2026 20:29:16 +0000",
-    "notes": "Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.",
-    "notes_html": "<ul><li>Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.</li></ul>"
   }
 ]
