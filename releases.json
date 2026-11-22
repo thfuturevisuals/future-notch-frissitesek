@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.4.0",
+    "build": 12,
+    "zip": "FutureNotch-0.4.0-12.zip",
+    "length": 8065868,
+    "ed_signature": "O/kdGYf1Ampg02AAsraS4gEX6bBFj46seropH3pE5/V1VoZRFkKSHPE+C4i+4w4RwKtPCOMuit4m41xJwdzSBA==",
+    "minimum_system_version": "14.0",
+    "commit": "073d6688e1039e34fd2f2d15330e854a91c37e69",
+    "sha256": "45f916ba30354f324e102c579b0b25e980fb87166733c0c26dd8ab00fd169a33",
+    "pub_date": "Sun, 22 Nov 2026 01:59:28 +0000",
+    "notes": "Ügyfél előtti mód: hívás közben (mikrofon/kamera) magától elrejti a neveket, kézzel is kapcsolható. Teljes képernyőn az értesítések várnak. Mai nap csík (forgatás, leadás) és emlékeztető 30 perccel előtte. Napzárás, műszak gomb. Elfelejtett stopper figyelő és visszamenőleges indítás a Gépidő alapján. Keresés: projekt, ügyfél, kontakt (hívás), archív mappa. Diktált feladat. Leadási link másolása a határidővel. Fájl rádobása a projekt 04_EXPORT / leadás mappájába. Future Desktop kártyamentés élő tevékenységként, új kártyánál kérdez.",
+    "notes_html": "<ul><li>Ügyfél előtti mód: hívás közben (mikrofon/kamera) magától elrejti a neveket, kézzel is kapcsolható. Teljes képernyőn az értesítések várnak. Mai nap csík (forgatás, leadás) és emlékeztető 30 perccel előtte. Napzárás, műszak gomb. Elfelejtett stopper figyelő és visszamenőleges indítás a Gépidő alapján. Keresés: projekt, ügyfél, kontakt (hívás), archív mappa. Diktált feladat. Leadási link másolása a határidővel. Fájl rádobása a projekt 04_EXPORT / leadás mappájába. Future Desktop kártyamentés élő tevékenységként, új kártyánál kérdez.</li></ul>"
+  },
+  {
     "version": "0.3.0",
     "build": 11,
     "zip": "FutureNotch-0.3.0-11.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Mon, 16 Nov 2026 20:29:16 +0000",
     "notes": "Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.",
     "notes_html": "<ul><li>Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.</li></ul>"
-  },
-  {
-    "version": "0.2.2",
-    "build": 9,
-    "zip": "FutureNotch-0.2.2-9.zip",
-    "length": 7743914,
-    "ed_signature": "UrVaNwQ8/PJVxRT9DzPOSvdpdu0KFvVlxjxEGnr8HHDhHe6qEKz9CG4I9NJOhgp94RUK1/u/5yXvG7MuF8JQCw==",
-    "minimum_system_version": "14.0",
-    "commit": "cda351a06bc36ad12502f1693dd84d836891b6b7",
-    "sha256": "d97d6cac5b71322fe22eb39f0c82db3caae2b2cdbddaad63908920bc43523ccf",
-    "pub_date": "Mon, 16 Nov 2026 20:03:21 +0000",
-    "notes": "Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.",
-    "notes_html": "<ul><li>Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.</li></ul>"
   }
 ]

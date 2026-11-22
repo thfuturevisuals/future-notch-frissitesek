@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/appcast.xml</link>
     <language>hu</language>
     <item>
+      <title>Future Notch 0.4.0</title>
+      <pubDate>Sun, 22 Nov 2026 01:59:28 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Ügyfél előtti mód: hívás közben (mikrofon/kamera) magától elrejti a neveket, kézzel is kapcsolható. Teljes képernyőn az értesítések várnak. Mai nap csík (forgatás, leadás) és emlékeztető 30 perccel előtte. Napzárás, műszak gomb. Elfelejtett stopper figyelő és visszamenőleges indítás a Gépidő alapján. Keresés: projekt, ügyfél, kontakt (hívás), archív mappa. Diktált feladat. Leadási link másolása a határidővel. Fájl rádobása a projekt 04_EXPORT / leadás mappájába. Future Desktop kártyamentés élő tevékenységként, új kártyánál kérdez.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.4.0-12.zip" length="8065868" type="application/octet-stream" sparkle:edSignature="O/kdGYf1Ampg02AAsraS4gEX6bBFj46seropH3pE5/V1VoZRFkKSHPE+C4i+4w4RwKtPCOMuit4m41xJwdzSBA=="/>
+    </item>
+    <item>
       <title>Future Notch 0.3.0</title>
       <pubDate>Sat, 21 Nov 2026 10:02:43 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Az új értesítések pár másodpercen belül megjelennek a notchban akkor is, ha nem nyitod meg a Future fület (eddig percenként nézte, és a macOS ezt még lassíthatta is). A frissítéseket óránként keresi.</li></ul>]]></description>
       <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.3-10.zip" length="7748622" type="application/octet-stream" sparkle:edSignature="UXvX9HgKL0gqxeApxEG4E2wm7BAUzOG18Y2Lkr9180mHWjGUlocrKbVnl5zZaLnz1hsGZ8V8iMdzfvcxW/nUBA=="/>
-    </item>
-    <item>
-      <title>Future Notch 0.2.2</title>
-      <pubDate>Mon, 16 Nov 2026 20:03:21 +0000</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Az értesítések most a kamera alatt nyílnak le (mint az iPhone Dynamic Island): a cím és az üzenet olvashatóan, a kamera nem takarja ki. Az Értesítések listában az üzenet is látszik.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.2.2-9.zip" length="7743914" type="application/octet-stream" sparkle:edSignature="UrVaNwQ8/PJVxRT9DzPOSvdpdu0KFvVlxjxEGnr8HHDhHe6qEKz9CG4I9NJOhgp94RUK1/u/5yXvG7MuF8JQCw=="/>
     </item>
   </channel>
 </rss>

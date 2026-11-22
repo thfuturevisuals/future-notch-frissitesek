@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "build": 11,
-  "zip": "FutureNotch-0.3.0-11.zip",
-  "sha256": "d167333217c407ec4ce6fad75bba0e9032a17f945b93582faaf12ff564ce3ccc",
-  "length": 7794361,
+  "version": "0.4.0",
+  "build": 12,
+  "zip": "FutureNotch-0.4.0-12.zip",
+  "sha256": "45f916ba30354f324e102c579b0b25e980fb87166733c0c26dd8ab00fd169a33",
+  "length": 8065868,
   "pkg": "FutureNotch-Telepito.pkg"
 }
