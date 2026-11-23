@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/appcast.xml</link>
     <language>hu</language>
     <item>
+      <title>Future Notch 0.4.2</title>
+      <pubDate>Mon, 23 Nov 2026 09:56:16 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Notch nélküli kijelzőn (Mac Studio, külső monitor) csak egy vékony sáv látszik, abból nyílik le; ha van mit mutatni (stopper, értesítés), megnő. Akkumulátor nélküli Macen nincs akku-kijelzés.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.4.2-14.zip" length="8070905" type="application/octet-stream" sparkle:edSignature="ZGE/EFH+Oj0k9q0SvaoqRnKrgK4Zbg8c2moRMbfEj8go7JPPjVrDgwAXkLP7+XholjdVAOt/+QV2XOd3ms+6Cg=="/>
+    </item>
+    <item>
       <title>Future Notch 0.4.1</title>
       <pubDate>Sun, 22 Nov 2026 10:35:15 +0000</pubDate>
       <sparkle:version>13</sparkle:version>
@@ -21,15 +30,6 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Ügyfél előtti mód: hívás közben (mikrofon/kamera) magától elrejti a neveket, kézzel is kapcsolható. Teljes képernyőn az értesítések várnak. Mai nap csík (forgatás, leadás) és emlékeztető 30 perccel előtte. Napzárás, műszak gomb. Elfelejtett stopper figyelő és visszamenőleges indítás a Gépidő alapján. Keresés: projekt, ügyfél, kontakt (hívás), archív mappa. Diktált feladat. Leadási link másolása a határidővel. Fájl rádobása a projekt 04_EXPORT / leadás mappájába. Future Desktop kártyamentés élő tevékenységként, új kártyánál kérdez.</li></ul>]]></description>
       <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.4.0-12.zip" length="8065868" type="application/octet-stream" sparkle:edSignature="O/kdGYf1Ampg02AAsraS4gEX6bBFj46seropH3pE5/V1VoZRFkKSHPE+C4i+4w4RwKtPCOMuit4m41xJwdzSBA=="/>
-    </item>
-    <item>
-      <title>Future Notch 0.3.0</title>
-      <pubDate>Sat, 21 Nov 2026 10:02:43 +0000</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.</li></ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/thfuturevisuals/future-notch-frissitesek/main/FutureNotch-0.3.0-11.zip" length="7794361" type="application/octet-stream" sparkle:edSignature="3kpG34b5iXQu3o1iD5rdc/TdOTh1NfCZl5SbhdA5gymPPao4T6+Uz9pavuWsgGzL2vODVQcjq+QNf4otJFV5Cg=="/>
     </item>
   </channel>
 </rss>

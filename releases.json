@@ -1,5 +1,18 @@
 [
   {
+    "version": "0.4.2",
+    "build": 14,
+    "zip": "FutureNotch-0.4.2-14.zip",
+    "length": 8070905,
+    "ed_signature": "ZGE/EFH+Oj0k9q0SvaoqRnKrgK4Zbg8c2moRMbfEj8go7JPPjVrDgwAXkLP7+XholjdVAOt/+QV2XOd3ms+6Cg==",
+    "minimum_system_version": "14.0",
+    "commit": "21d97b4988e6bd4d8842498ffae4c0b385307af7",
+    "sha256": "50977c0dbdf03ad8154ff3585cdb6caa7f152adaeff618893e5b37f7ad7515c2",
+    "pub_date": "Mon, 23 Nov 2026 09:56:16 +0000",
+    "notes": "Notch nélküli kijelzőn (Mac Studio, külső monitor) csak egy vékony sáv látszik, abból nyílik le; ha van mit mutatni (stopper, értesítés), megnő. Akkumulátor nélküli Macen nincs akku-kijelzés.",
+    "notes_html": "<ul><li>Notch nélküli kijelzőn (Mac Studio, külső monitor) csak egy vékony sáv látszik, abból nyílik le; ha van mit mutatni (stopper, értesítés), megnő. Akkumulátor nélküli Macen nincs akku-kijelzés.</li></ul>"
+  },
+  {
     "version": "0.4.1",
     "build": 13,
     "zip": "FutureNotch-0.4.1-13.zip",
@@ -24,18 +37,5 @@
     "pub_date": "Sun, 22 Nov 2026 01:59:28 +0000",
     "notes": "Ügyfél előtti mód: hívás közben (mikrofon/kamera) magától elrejti a neveket, kézzel is kapcsolható. Teljes képernyőn az értesítések várnak. Mai nap csík (forgatás, leadás) és emlékeztető 30 perccel előtte. Napzárás, műszak gomb. Elfelejtett stopper figyelő és visszamenőleges indítás a Gépidő alapján. Keresés: projekt, ügyfél, kontakt (hívás), archív mappa. Diktált feladat. Leadási link másolása a határidővel. Fájl rádobása a projekt 04_EXPORT / leadás mappájába. Future Desktop kártyamentés élő tevékenységként, új kártyánál kérdez.",
     "notes_html": "<ul><li>Ügyfél előtti mód: hívás közben (mikrofon/kamera) magától elrejti a neveket, kézzel is kapcsolható. Teljes képernyőn az értesítések várnak. Mai nap csík (forgatás, leadás) és emlékeztető 30 perccel előtte. Napzárás, műszak gomb. Elfelejtett stopper figyelő és visszamenőleges indítás a Gépidő alapján. Keresés: projekt, ügyfél, kontakt (hívás), archív mappa. Diktált feladat. Leadási link másolása a határidővel. Fájl rádobása a projekt 04_EXPORT / leadás mappájába. Future Desktop kártyamentés élő tevékenységként, új kártyánál kérdez.</li></ul>"
-  },
-  {
-    "version": "0.3.0",
-    "build": 11,
-    "zip": "FutureNotch-0.3.0-11.zip",
-    "length": 7794361,
-    "ed_signature": "3kpG34b5iXQu3o1iD5rdc/TdOTh1NfCZl5SbhdA5gymPPao4T6+Uz9pavuWsgGzL2vODVQcjq+QNf4otJFV5Cg==",
-    "minimum_system_version": "14.0",
-    "commit": "a0ff0db5ef85969c5fdef67895f31d7e760d065a",
-    "sha256": "d167333217c407ec4ce6fad75bba0e9032a17f945b93582faaf12ff564ce3ccc",
-    "pub_date": "Sat, 21 Nov 2026 10:02:43 +0000",
-    "notes": "Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.",
-    "notes_html": "<ul><li>Megnyitáskor a Future (CRM) fül jön (Beállítások → Future CRM-ben kikapcsolható). Ha fut a stopper, a projekt mappái egy kattintással nyílnak: projektmappa, nyersanyag (02_NYERS), assets (01_ASSETS), leadás. Ha nem fut, a Gépidő alapján felajánlja a projektet, amin épp dolgozol.</li></ul>"
   }
 ]
